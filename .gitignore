@@ -1,4 +1,4 @@
 .vs/
 *.ipch
-.obj
-.bin
+*.obj
+*.bin
