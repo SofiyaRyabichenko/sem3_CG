@@ -1,4 +1,8 @@
 .vs/
 *.ipch
-*.obj
-*.bin
+.obj
+.bin
+*.pch
+lab5/Assets/
+lab5/**/obj/
+lab5/**/bin/
